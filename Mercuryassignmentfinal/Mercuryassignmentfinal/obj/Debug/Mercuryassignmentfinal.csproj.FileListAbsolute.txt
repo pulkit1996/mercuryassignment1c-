@@ -1,0 +1,10 @@
+P:\C# businessApplicationProgramming\Mercuryassignmentfinal\Mercuryassignmentfinal\bin\Debug\Mercuryassignmentfinal.exe.config
+P:\C# businessApplicationProgramming\Mercuryassignmentfinal\Mercuryassignmentfinal\bin\Debug\Mercuryassignmentfinal.exe
+P:\C# businessApplicationProgramming\Mercuryassignmentfinal\Mercuryassignmentfinal\bin\Debug\Mercuryassignmentfinal.pdb
+P:\C# businessApplicationProgramming\Mercuryassignmentfinal\Mercuryassignmentfinal\obj\Debug\Mercuryassignmentfinal.csproj.AssemblyReference.cache
+P:\C# businessApplicationProgramming\Mercuryassignmentfinal\Mercuryassignmentfinal\obj\Debug\Mercuryassignmentfinal.Form1.resources
+P:\C# businessApplicationProgramming\Mercuryassignmentfinal\Mercuryassignmentfinal\obj\Debug\Mercuryassignmentfinal.Properties.Resources.resources
+P:\C# businessApplicationProgramming\Mercuryassignmentfinal\Mercuryassignmentfinal\obj\Debug\Mercuryassignmentfinal.csproj.GenerateResource.cache
+P:\C# businessApplicationProgramming\Mercuryassignmentfinal\Mercuryassignmentfinal\obj\Debug\Mercuryassignmentfinal.csproj.CoreCompileInputs.cache
+P:\C# businessApplicationProgramming\Mercuryassignmentfinal\Mercuryassignmentfinal\obj\Debug\Mercuryassignmentfinal.exe
+P:\C# businessApplicationProgramming\Mercuryassignmentfinal\Mercuryassignmentfinal\obj\Debug\Mercuryassignmentfinal.pdb
